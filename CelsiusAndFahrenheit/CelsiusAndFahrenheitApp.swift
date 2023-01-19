@@ -11,7 +11,7 @@ import SwiftUI
 struct CelsiusAndFahrenheitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Calculator_View()
         }
     }
 }
